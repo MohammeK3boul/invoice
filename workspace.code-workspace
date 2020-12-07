@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../MyProject/layout"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../landing Page enayapay"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Envoicy V"
+	}
+}
