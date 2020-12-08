@@ -2413,6 +2413,9 @@ select.form-control:not([size]):not([multiple]){
   .form-control{
     padding: 10px !important;
   }
+  .number .form-control{
+    padding-left: 50px !important;
+  }
   .credit-card{
     width: 250px !important;
     height: 170px !important;
