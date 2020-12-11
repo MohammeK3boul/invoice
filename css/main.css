@@ -2420,3 +2420,19 @@ select.form-control:not([size]):not([multiple]){
     width: 250px !important;
     height: 170px !important;
   }
+  .confirm .btn-border{
+    color: #F47E34;
+    border-color: #F47E34;
+    border-radius: 15px !important;
+
+  }
+  .confirm .btn-border:hover{
+    color: #F47E34 !important;
+    border-color: #F47E34 !important;
+    background-color: #f7f7f7;
+  }
+  .text-success .material-icons{
+    font-size: 103px !important;
+    border: 2px solid;
+    border-radius: 100%;
+  }
