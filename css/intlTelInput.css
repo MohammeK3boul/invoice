@@ -914,10 +914,10 @@
     height: 10px;
     background-position: -5632px 0px; }
     .iti__selected-flag{
-      background-color: #f47e34;
+      background-image: linear-gradient(to right, #7a08bc, #4432f9, #05d2dd) !important;
     }
     .iti--allow-dropdown .iti__flag-container:hover .iti__selected-flag{
-      background-color: #f47e34 !important;
+      background-image: linear-gradient(to right, #7a08bc, #4432f9, #05d2dd) !important;
     }
 .iti__flag {
   height: 15px;
